@@ -3,9 +3,9 @@
     "path": "~/STAT 212/Website/temp_website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2220862868",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1726188711279.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -21,11 +21,11 @@
         "scrollLine": "7"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726190418,
+    "lastKnownWriteTime": 1726190746,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726190430014,
+    "last_content_update": 1726190746595,
     "read_only": false,
     "read_only_alternatives": []
 }
