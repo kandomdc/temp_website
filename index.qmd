@@ -1,11 +1,22 @@
 ---
-title: "temp_website"
+title: "Kynan Desouza-Chen"
+
+about:
+  id: intro-heading
+  template: jolla
+  #image: images/profilepic.jpg
+  links: 
+    - icon: github
+      href: https://github.com/kandomdc
 ---
 
-This is a Quarto website.
+:::{#intro-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, my name is Kynan. I am a human. I'll write this later.
 
-```{r}
-1 + 1
-```
+## Education
+
+Macalester College | St. Paul MN <br>
+B.S. in Data Science | September 2022 - May 2026
+
+:::
